@@ -5,6 +5,7 @@
 }
 
 .main-navigation a {
-    color: black;
+    color: white;
+    font-weight: bold;
     text-decoration: none;
 }
